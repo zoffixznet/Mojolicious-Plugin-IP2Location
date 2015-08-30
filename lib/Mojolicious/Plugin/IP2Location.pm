@@ -75,8 +75,9 @@ L<Mojolicious> plugin wrapper for L<Geo::IP2Location::Lite>
 
 =for pod_spiffy start warning section
 
-This module is released as is to support the release of another distro.
-Proper docs and tests will follow soon. B<The interface will change.>
+This module is released as is to support the release of another
+distribution. Proper docs and tests will follow soon.
+B<The interface WILL change.>
 
 =for pod_spiffy end warning section
 
